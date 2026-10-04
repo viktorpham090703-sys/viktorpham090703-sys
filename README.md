@@ -7,8 +7,6 @@ Technology-oriented practitioner with a business background.
 <a href="https://www.linkedin.com/in/pham-hoang-anh-679867243/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Pham Hoang Anh | LinkedIn" width="21px"/></a>
 <a href="https://www.facebook.com/phammhoangg489/"><img align="left" src="https://cdn.simpleicons.org/facebook" alt="Pham Hoang Anh | Facebook" width="21px"/></a>
 <a href="https://www.instagram.com/phmmhnggg/"><img align="left" src="https://cdn.simpleicons.org/instagram" alt="Pham Hoang Anh | Instagram" width="21px"/></a>
-<a href="https://www.tiktok.com/@YOUR-TIKTOK"><img align="left" src="https://cdn.simpleicons.org/tiktok" alt="Pham Hoang Anh | TikTok" width="21px"/></a>
-<a href="mailto:tonypham090703@gmail.com"><img align="left" src="https://cdn.simpleicons.org/gmail" alt="Pham Hoang Anh | Email" width="21px"/></a>
 <br>
 
 # 🔭 I'm currently working on 
