@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Pham Hoang Anh (Viktor) | Xin chào, mình là Phạm Hoàng Anh
+# 👋 Hi, I'm Tony Pham
 
-Technology-oriented professional with a business background — Information Systems & AI Marketing at NetVietTV.
-<br>
-Người làm công nghệ xuất phát từ nền tảng kinh doanh — Information Systems & AI Marketing tại NetVietTV.
+Technology-oriented practitioner with a business background.
 
-# 🤝 Connect with me | Kết nối với mình
+# 🤝 Let's connect:
 
 <a href="https://www.linkedin.com/in/pham-hoang-anh-679867243/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Pham Hoang Anh | LinkedIn" width="21px"/></a>
 <a href="https://www.facebook.com/phammhoangg489/"><img align="left" src="https://cdn.simpleicons.org/facebook" alt="Pham Hoang Anh | Facebook" width="21px"/></a>
@@ -13,13 +11,13 @@ Người làm công nghệ xuất phát từ nền tảng kinh doanh — Informa
 <a href="mailto:tonypham090703@gmail.com"><img align="left" src="https://cdn.simpleicons.org/gmail" alt="Pham Hoang Anh | Email" width="21px"/></a>
 <br>
 
-# 🔭 I'm currently working on | Mình đang làm
+# 🔭 I'm currently working on 
 
-- **NetViet Sales OS** — a sales & CRM system at NetVietTV / Hệ thống Sales & CRM tại NetVietTV
-- **Graduate study preparation** in Business Informatics / Information Systems / Chuẩn bị học Thạc sĩ ngành Business Informatics / Information Systems
+- **Applied research projects** in Business Informatics & Information Systems 
+- **Next milestone:** Graduate studies in Business Informatics, Data Science, or Information Systems
 
-# 💼 Technical Skills | Kỹ năng
-### Languages | Ngôn ngữ
+# 💼 Technical Skills 
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +26,7 @@ Người làm công nghệ xuất phát từ nền tảng kinh doanh — Informa
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  <br>
- ### Data & Analytics | Dữ liệu & Phân tích
+ ### Data & Analytics 
 
  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -38,7 +36,7 @@ Người làm công nghệ xuất phát từ nền tảng kinh doanh — Informa
  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
   <br>
-  ### AI & Automation | AI & Tự động hoá
+  ### AI & Automation 
 
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -46,7 +44,7 @@ Người làm công nghệ xuất phát từ nền tảng kinh doanh — Informa
   ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
   ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
   <br>
-  ### Tools & Platforms | Công cụ & Nền tảng
+  ### Tools & Platforms 
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -57,7 +55,7 @@ Người làm công nghệ xuất phát từ nền tảng kinh doanh — Informa
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-# 📈 GitHub Stats | Thống kê GitHub
+# 📈 GitHub Stats 
 
 [![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=viktorpham090703-sys)](https://github.com/viktorpham090703-sys)
 
